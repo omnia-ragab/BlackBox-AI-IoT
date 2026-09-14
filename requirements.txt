@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+plotly
+matplotlib
+jupyter
+kaggle
